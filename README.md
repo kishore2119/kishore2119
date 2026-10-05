@@ -76,13 +76,6 @@ Currently exploring the intersection of **AI, Generative AI, and Backend Enginee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2119&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -108,8 +101,11 @@ Side projects, experiments, and random ideas that seemed worth building.
   <a href="https://github.com/kishore2119">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sai-kishore-velamarthi-a7666b330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/kishore2119">
+    <img src="https://img.shields.io/badge/LeetCode-kishore2119-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
